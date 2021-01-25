@@ -1,4 +1,12 @@
 # QuizCalculator  
 
-To run in debug mode : ```cargo run ```  
-To run in release mode : ```cargo run --release```
+To run in debug mode :   
+```
+cargo update  
+cargo run   
+```  
+To run in release mode :   
+```
+cargo update  
+cargo run --release  
+```
